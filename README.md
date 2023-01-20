@@ -1,4 +1,4 @@
-# ADV360-PRO-ZMK
+# ADV360-PRO-ZMK!
 
 ## To build Firmware in GitHub Actions
 
@@ -22,6 +22,7 @@ Either Podman or Docker is required, Podman is preferred if both are present.\
 Make is also required
 
 #### Windows specific
+
 If compiling on Windows use WSL2 and Docker [Docker Setup Guide](https://docs.docker.com/desktop/windows/wsl/).\
 Install make using `sudo apt-get install make`.\
 The repository can be cloned directly into the WSL2 instance or accessed through the C: mount point WSL provides by default (`/mnt/c/path-to-repo`).
